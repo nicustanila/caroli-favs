@@ -14700,7 +14700,7 @@ cr.getProjectModel = function() { return [
 	[
 		"Layout 1",
 		1280,
-		780,
+		750,
 		true,
 		"Event sheet 1",
 		1003968026535036,
@@ -14721,7 +14721,7 @@ cr.getProjectModel = function() { return [
 			0,
 			[
 			[
-				[0, 0, 0, 1280, 800, 0, 0, 1, 0, 0, 0, 0, []],
+				[0, 0, 0, 962, 598, 0, 0, 1, 0, 0, 0, 0, []],
 				3,
 				0,
 				[
@@ -14846,7 +14846,7 @@ cr.getProjectModel = function() { return [
 	"media/",
 	true,
 	1280,
-	780,
+	750,
 	4,
 	true,
 	true,
@@ -14855,7 +14855,7 @@ cr.getProjectModel = function() { return [
 	true,
 	false,
 	0,
-	0,
+	2,
 	3,
 	false,
 	true,
